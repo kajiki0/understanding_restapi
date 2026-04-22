@@ -1,6 +1,8 @@
 //javascript provides the fetch() API and third-party libs like axios to interact
+//fetch() is used to establish communication with an URL
 
 //retrieve data using fetch()
+
 
 //API:https://jsonplaceholder.typicode.com
 
